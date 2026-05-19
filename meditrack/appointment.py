@@ -16,7 +16,6 @@ from uuid import uuid4
 from meditrack.validation import (
     ValidationError,
     validate_appointment_date,
-    validate_date_string,
     validate_patient_id,
     validate_required_fields,
 )
