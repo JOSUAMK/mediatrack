@@ -9,7 +9,7 @@ No real patient information is stored or transmitted.
 """
 
 __version__ = "1.0.0"
-__author__ = "Lucas Mayer"
+__author__ = "Josue Michael Kacou"
 
 from meditrack.appointment import Appointment, AppointmentRepository, AppointmentStatus, AppointmentType
 from meditrack.patient import PatientRecord, PatientRepository
