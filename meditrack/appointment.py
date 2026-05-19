@@ -76,11 +76,11 @@ class Appointment:
         """Parse and validate appointment type."""
         try:
             return AppointmentType(value)
-        except ValueError:
+        except ValueError as exc:
             valid = [t.value for t in AppointmentType]
             raise ValidationError(
                 f"Invalid appointment type '{value}'. Valid values: {valid}."
-            )
+            ) from exc
 
     # ── Serialisation ───────────────────────────────────────────────────
 
