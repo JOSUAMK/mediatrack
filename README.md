@@ -5,7 +5,7 @@
 A lightweight, simulated **Patient Management System** built in Python, developed as the project placeholder for the research paper:
 
 > **Implementing CI/CD Pipelines and Agile Practices in a Healthcare Patient Management System**
-> Lucas Mayer — THD HI-7 — Management and IT-Consulting in Health Service (SS 2026)
+> Josue Michael Kacou — THD HI-7 — Management and IT-Consulting in Health Service (SS 2026)
 
 > ⚠️ **All patient data in this system is simulated. No real patient information is stored or transmitted.**
 
