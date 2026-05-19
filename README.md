@@ -1,6 +1,6 @@
 # MediTrack — Patient Management System
 
-![CI Pipeline](https://github.com/<your-username>/meditrack/actions/workflows/ci.yml/badge.svg)
+![CI Pipeline](https://github.com/JOSUAMK/mediatrack/actions/workflows/ci.yml/badge.svg)
 
 A lightweight, simulated **Patient Management System** built in Python, developed as the project placeholder for the research paper:
 
@@ -52,7 +52,7 @@ Every push to `main` and every pull request triggers the five-stage pipeline:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/meditrack.git
+git clone https://github.com/JOSUAMK/mediatrack.git
 cd meditrack
 
 # Install dependencies
